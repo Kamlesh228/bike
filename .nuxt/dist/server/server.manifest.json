@@ -1,0 +1,17 @@
+{
+  "entry": "server.js",
+  "files": {
+    "pages/index.js": "pages/index.js",
+    "pages/my-items.js": "pages/my-items.js",
+    "pages/products/_id.js": "pages/products/_id.js",
+    "pages/products/index.js": "pages/products/index.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "pages/index.js": "pages/index.js.map",
+    "pages/my-items.js": "pages/my-items.js.map",
+    "pages/products/_id.js": "pages/products/_id.js.map",
+    "pages/products/index.js": "pages/products/index.js.map",
+    "server.js": "server.js.map"
+  }
+}
