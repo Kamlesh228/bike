@@ -3,7 +3,7 @@
         <div class="text-container">
             <h1 class="header">Find your Bike</h1>
             <p class="snippet">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste iusto illum quidem asperiores, cum nisi aperiam eius ipsa sapiente odit!</p>
-            <button class="button btn">Start Looking</button>
+            <nuxt-link to="/products"><button class="button btn">Start Looking</button></nuxt-link>
         </div>
         <img class="image" src="~assets/svg/bike.svg" alt="Bike">
     </div>

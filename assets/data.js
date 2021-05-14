@@ -1,25 +1,25 @@
 export const largeCardSections = [
     {
       id: 1,
-      title: "Top-rated Bike in Niagara",
-      snippet: "User say these are the best Bikes to rent if your house is burning down.",
+      title: "Top-rated Bike's",
+      snippet: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste iusto illum quidem asperiores, cum nisi aperiam eius ipsa sapiente odit!",
       cards: [
         {
           id: 19,
           title: "Toronto's Portable 2L Bike",
-          snippet: "This Bike saved homes from completely burning down. People that used it only had 98% of their homes burned down.",
+          snippet: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste iusto illum quidem asperiores, cum nisi aperiam eius ipsa sapiente odit!",
           image: "fe1.jpg"
         },
         {
           id: 20,
-          title: "Empty Super Red Bike",
-          snippet: "This is one of the most red Bikes you will ever see. Super clean. It's pretty much useless otherwise.",
+          title: " Super Bike",
+          snippet: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste iusto illum quidem asperiores, cum nisi aperiam eius ipsa sapiente odit!",
           image: "fe2.jpg"
         },
         {
           id: 21,
-          title: "Bike, Perfect for Pools",
-          snippet: "If you ever find that your pool is on fire then this is the Bike for you. It has a 100% success rate.",
+          title: "Bike, Perfect for roadtrip",
+          snippet: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste iusto illum quidem asperiores, cum nisi aperiam eius ipsa sapiente odit!",
           image: "fe3.jpg"
         }
       ]
@@ -27,24 +27,24 @@ export const largeCardSections = [
     {
       id: 2,
       title: "Luxury Bike",
-      snippet: "Take down that fire lavishly and in style with our luxury extinguishers.",
+      snippet: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste iusto illum quidem asperiores, cum nisi aperiam eius ipsa sapiente odit!Take down that fire lavishly and in style with our luxury extinguishers.",
       cards: [
         {
           id: 22,
           title: "Vintage 1864 Bike",
-          snippet: "This is hands down the worst Bike you can use in a crisis. The radiation will kill you if the fire doesn't",
+          snippet: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste iusto illum quidem asperiores, cum nisi aperiam eius ipsa sapiente odit!This is hands down the worst Bike you can use in a crisis. The radiation will kill you if the fire doesn't",
           image: "fe4.jpg"
         },
         {
           id: 23,
           title: "Pure Silver & Gold Bike",
-          snippet: "This one is made out of 50k worth of pure silver and white gold. The metal choice was a poor for functionality, but was great for style!",
+          snippet: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste iusto illum quidem asperiores, cum nisi aperiam eius ipsa sapiente odit!This one is made out of 50k worth of pure silver and white gold. The metal choice was a poor for functionality, but was great for style!",
           image: "fe5.jpg"
         },
         {
           id: 24,
           title: "Two in One Bike",
-          snippet: "This is the first ever two in one Bike. Good if both you and your friend's houses are burining down",
+          snippet: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste iusto illum quidem asperiores, cum nisi aperiam eius ipsa sapiente odit!This is the first ever two in one Bike. Good if both you and your friend's houses are burining down",
           image: "fe6.jpg"
         }
       ]
@@ -54,7 +54,7 @@ export const largeCardSections = [
   export const smallCardSections = [
       {
           id: 1,
-          title: "Bike in Toronto",
+          title: "Bike in Pune",
           cards: [
               {
                 id: 1,
@@ -108,7 +108,7 @@ export const largeCardSections = [
       },
       {
         id: 2,
-        title: "Bike in Niagara",
+        title: "Bike in Mumbai",
         cards: [
             {
               id: 13,

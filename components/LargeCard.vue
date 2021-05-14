@@ -26,7 +26,8 @@
         cursor: pointer;
     }
     .image {
-        height: 65%;
+        height: 100%;
+        width: 100%;
         border-radius: 0.5rem;
     }
     .header {

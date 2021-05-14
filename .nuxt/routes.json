@@ -3,28 +3,24 @@
     "name": "my-items",
     "path": "/my-items",
     "component": "C:\\\\projects\\\\Bike\\\\pages\\\\my-items.vue",
-    "chunkName": "pages/my-items",
-    "_name": "_1b3bdf1a"
+    "chunkName": "pages/my-items"
   },
   {
     "name": "products",
     "path": "/products",
     "component": "C:\\\\projects\\\\Bike\\\\pages\\\\products\\\\index.vue",
-    "chunkName": "pages/products/index",
-    "_name": "_434e4e8a"
+    "chunkName": "pages/products/index"
   },
   {
     "name": "products-id",
     "path": "/products/:id",
     "component": "C:\\\\projects\\\\Bike\\\\pages\\\\products\\\\_id.vue",
-    "chunkName": "pages/products/_id",
-    "_name": "_5e526b72"
+    "chunkName": "pages/products/_id"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\projects\\\\Bike\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_21dbd224"
+    "chunkName": "pages/index"
   }
 ]
