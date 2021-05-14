@@ -1,0 +1,26 @@
+[
+  {
+    "name": "my-items",
+    "path": "/my-items",
+    "component": "C:\\\\projects\\\\NuxtDemo\\\\pages\\\\my-items.vue",
+    "chunkName": "pages/my-items"
+  },
+  {
+    "name": "products",
+    "path": "/products",
+    "component": "C:\\\\projects\\\\NuxtDemo\\\\pages\\\\products\\\\index.vue",
+    "chunkName": "pages/products/index"
+  },
+  {
+    "name": "products-id",
+    "path": "/products/:id",
+    "component": "C:\\\\projects\\\\NuxtDemo\\\\pages\\\\products\\\\_id.vue",
+    "chunkName": "pages/products/_id"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\projects\\\\NuxtDemo\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]

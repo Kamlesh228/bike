@@ -1,0 +1,68 @@
+{
+  "Hero": {
+    "description": "Auto imported from C:/projects/NuxtDemo/components/Hero.vue"
+  },
+  "LazyHero": {
+    "description": "Auto imported from C:/projects/NuxtDemo/components/Hero.vue"
+  },
+  "LargeCard": {
+    "description": "Auto imported from C:/projects/NuxtDemo/components/LargeCard.vue"
+  },
+  "LazyLargeCard": {
+    "description": "Auto imported from C:/projects/NuxtDemo/components/LargeCard.vue"
+  },
+  "LargeCardDisplay": {
+    "description": "Auto imported from C:/projects/NuxtDemo/components/LargeCardDisplay.vue"
+  },
+  "LazyLargeCardDisplay": {
+    "description": "Auto imported from C:/projects/NuxtDemo/components/LargeCardDisplay.vue"
+  },
+  "MyItem": {
+    "description": "Auto imported from C:/projects/NuxtDemo/components/MyItem.vue"
+  },
+  "LazyMyItem": {
+    "description": "Auto imported from C:/projects/NuxtDemo/components/MyItem.vue"
+  },
+  "Nav": {
+    "description": "Auto imported from C:/projects/NuxtDemo/components/Nav.vue"
+  },
+  "LazyNav": {
+    "description": "Auto imported from C:/projects/NuxtDemo/components/Nav.vue"
+  },
+  "PageNotFound": {
+    "description": "Auto imported from C:/projects/NuxtDemo/components/PageNotFound.vue"
+  },
+  "LazyPageNotFound": {
+    "description": "Auto imported from C:/projects/NuxtDemo/components/PageNotFound.vue"
+  },
+  "RentModal": {
+    "description": "Auto imported from C:/projects/NuxtDemo/components/RentModal.vue"
+  },
+  "LazyRentModal": {
+    "description": "Auto imported from C:/projects/NuxtDemo/components/RentModal.vue"
+  },
+  "ReviewCard": {
+    "description": "Auto imported from C:/projects/NuxtDemo/components/ReviewCard.vue"
+  },
+  "LazyReviewCard": {
+    "description": "Auto imported from C:/projects/NuxtDemo/components/ReviewCard.vue"
+  },
+  "Reviews": {
+    "description": "Auto imported from C:/projects/NuxtDemo/components/Reviews.vue"
+  },
+  "LazyReviews": {
+    "description": "Auto imported from C:/projects/NuxtDemo/components/Reviews.vue"
+  },
+  "SmallCard": {
+    "description": "Auto imported from C:/projects/NuxtDemo/components/SmallCard.vue"
+  },
+  "LazySmallCard": {
+    "description": "Auto imported from C:/projects/NuxtDemo/components/SmallCard.vue"
+  },
+  "SmallCardDisplay": {
+    "description": "Auto imported from C:/projects/NuxtDemo/components/SmallCardDisplay.vue"
+  },
+  "LazySmallCardDisplay": {
+    "description": "Auto imported from C:/projects/NuxtDemo/components/SmallCardDisplay.vue"
+  }
+}
