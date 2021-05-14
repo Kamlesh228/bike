@@ -13,8 +13,8 @@ import { createStore } from './store.js'
 
 /* Plugins */
 
-import nuxt_plugin_plugin_5e31b8a8 from 'nuxt_plugin_plugin_5e31b8a8' // Source: .\\components\\plugin.js (mode: 'all')
-import nuxt_plugin_bootstrapvue_637b58fe from 'nuxt_plugin_bootstrapvue_637b58fe' // Source: .\\bootstrap-vue.js (mode: 'all')
+import nuxt_plugin_plugin_0c79861e from 'nuxt_plugin_plugin_0c79861e' // Source: .\\components\\plugin.js (mode: 'all')
+import nuxt_plugin_bootstrapvue_5c0e467a from 'nuxt_plugin_bootstrapvue_5c0e467a' // Source: .\\bootstrap-vue.js (mode: 'all')
 import nuxt_plugin_vuejsmodal_0719e4a0 from 'nuxt_plugin_vuejsmodal_0719e4a0' // Source: ..\\plugins\\vue-js-modal.js (mode: 'server')
 import nuxt_plugin_vuecalendar_741ac10a from 'nuxt_plugin_vuecalendar_741ac10a' // Source: ..\\plugins\\vue-calendar.js (mode: 'client')
 
@@ -205,12 +205,12 @@ async function createApp(ssrContext, config = {}) {
   }
   // Plugin execution
 
-  if (typeof nuxt_plugin_plugin_5e31b8a8 === 'function') {
-    await nuxt_plugin_plugin_5e31b8a8(app.context, inject)
+  if (typeof nuxt_plugin_plugin_0c79861e === 'function') {
+    await nuxt_plugin_plugin_0c79861e(app.context, inject)
   }
 
-  if (typeof nuxt_plugin_bootstrapvue_637b58fe === 'function') {
-    await nuxt_plugin_bootstrapvue_637b58fe(app.context, inject)
+  if (typeof nuxt_plugin_bootstrapvue_5c0e467a === 'function') {
+    await nuxt_plugin_bootstrapvue_5c0e467a(app.context, inject)
   }
 
   if (process.server && typeof nuxt_plugin_vuejsmodal_0719e4a0 === 'function') {

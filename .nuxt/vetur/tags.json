@@ -1,68 +1,68 @@
 {
   "Hero": {
-    "description": "Auto imported from C:/projects/NuxtDemo/components/Hero.vue"
+    "description": "Auto imported from C:/projects/Bike/components/Hero.vue"
   },
   "LazyHero": {
-    "description": "Auto imported from C:/projects/NuxtDemo/components/Hero.vue"
+    "description": "Auto imported from C:/projects/Bike/components/Hero.vue"
   },
   "LargeCard": {
-    "description": "Auto imported from C:/projects/NuxtDemo/components/LargeCard.vue"
+    "description": "Auto imported from C:/projects/Bike/components/LargeCard.vue"
   },
   "LazyLargeCard": {
-    "description": "Auto imported from C:/projects/NuxtDemo/components/LargeCard.vue"
+    "description": "Auto imported from C:/projects/Bike/components/LargeCard.vue"
   },
   "LargeCardDisplay": {
-    "description": "Auto imported from C:/projects/NuxtDemo/components/LargeCardDisplay.vue"
+    "description": "Auto imported from C:/projects/Bike/components/LargeCardDisplay.vue"
   },
   "LazyLargeCardDisplay": {
-    "description": "Auto imported from C:/projects/NuxtDemo/components/LargeCardDisplay.vue"
+    "description": "Auto imported from C:/projects/Bike/components/LargeCardDisplay.vue"
   },
   "MyItem": {
-    "description": "Auto imported from C:/projects/NuxtDemo/components/MyItem.vue"
+    "description": "Auto imported from C:/projects/Bike/components/MyItem.vue"
   },
   "LazyMyItem": {
-    "description": "Auto imported from C:/projects/NuxtDemo/components/MyItem.vue"
+    "description": "Auto imported from C:/projects/Bike/components/MyItem.vue"
   },
   "Nav": {
-    "description": "Auto imported from C:/projects/NuxtDemo/components/Nav.vue"
+    "description": "Auto imported from C:/projects/Bike/components/Nav.vue"
   },
   "LazyNav": {
-    "description": "Auto imported from C:/projects/NuxtDemo/components/Nav.vue"
+    "description": "Auto imported from C:/projects/Bike/components/Nav.vue"
   },
   "PageNotFound": {
-    "description": "Auto imported from C:/projects/NuxtDemo/components/PageNotFound.vue"
+    "description": "Auto imported from C:/projects/Bike/components/PageNotFound.vue"
   },
   "LazyPageNotFound": {
-    "description": "Auto imported from C:/projects/NuxtDemo/components/PageNotFound.vue"
+    "description": "Auto imported from C:/projects/Bike/components/PageNotFound.vue"
   },
   "RentModal": {
-    "description": "Auto imported from C:/projects/NuxtDemo/components/RentModal.vue"
+    "description": "Auto imported from C:/projects/Bike/components/RentModal.vue"
   },
   "LazyRentModal": {
-    "description": "Auto imported from C:/projects/NuxtDemo/components/RentModal.vue"
+    "description": "Auto imported from C:/projects/Bike/components/RentModal.vue"
   },
   "ReviewCard": {
-    "description": "Auto imported from C:/projects/NuxtDemo/components/ReviewCard.vue"
+    "description": "Auto imported from C:/projects/Bike/components/ReviewCard.vue"
   },
   "LazyReviewCard": {
-    "description": "Auto imported from C:/projects/NuxtDemo/components/ReviewCard.vue"
+    "description": "Auto imported from C:/projects/Bike/components/ReviewCard.vue"
   },
   "Reviews": {
-    "description": "Auto imported from C:/projects/NuxtDemo/components/Reviews.vue"
+    "description": "Auto imported from C:/projects/Bike/components/Reviews.vue"
   },
   "LazyReviews": {
-    "description": "Auto imported from C:/projects/NuxtDemo/components/Reviews.vue"
+    "description": "Auto imported from C:/projects/Bike/components/Reviews.vue"
   },
   "SmallCard": {
-    "description": "Auto imported from C:/projects/NuxtDemo/components/SmallCard.vue"
+    "description": "Auto imported from C:/projects/Bike/components/SmallCard.vue"
   },
   "LazySmallCard": {
-    "description": "Auto imported from C:/projects/NuxtDemo/components/SmallCard.vue"
+    "description": "Auto imported from C:/projects/Bike/components/SmallCard.vue"
   },
   "SmallCardDisplay": {
-    "description": "Auto imported from C:/projects/NuxtDemo/components/SmallCardDisplay.vue"
+    "description": "Auto imported from C:/projects/Bike/components/SmallCardDisplay.vue"
   },
   "LazySmallCardDisplay": {
-    "description": "Auto imported from C:/projects/NuxtDemo/components/SmallCardDisplay.vue"
+    "description": "Auto imported from C:/projects/Bike/components/SmallCardDisplay.vue"
   }
 }
